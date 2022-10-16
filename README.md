@@ -1,5 +1,5 @@
 ## Hi there 👋
-I mostly work on personal financial and Esports analysis programs. Competent in Python and Javascript; also learning Rust. Currently working on building Paper trading project to use to test quantitative financial models with the goal of using them on real markets.
+I mostly work on personal financial and Esports analysis programs. Competent in Python and Javascript; also learning Rust && Cpp. Currently working on building Paper trading project to use to test quantitative financial models with the goal of using them on real markets.
 
 ## ⚙️ Technologies
 
