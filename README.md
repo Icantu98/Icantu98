@@ -1,5 +1,5 @@
 ## Hi there 👋
-I mostly work on personal financial and Esports analysis programs. Competent in Python; also learning Cpp. Currently working several analysis projects in Esports, Finacial Markets, and F1 Telemetry.
+Competent in Python; also learning Cpp. Currently working several analysis projects in Esports, Finacial Markets, and F1 Telemetry.
 ## ⚙️ Technologies
 
 ![](https://img.shields.io/badge/Lang-Python-blue)
