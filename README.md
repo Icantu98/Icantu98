@@ -3,9 +3,6 @@ Competent in Python; also learning Cpp. Currently working several analysis proje
 ## ⚙️ Technologies
 
 ![](https://img.shields.io/badge/Lang-Python-blue)
-![](https://img.shields.io/badge/Lang-JavaScript-blue)
-![](https://img.shields.io/badge/Lang-TypeScript-blue)
-![](https://img.shields.io/badge/Lang-Rust-blue)
 
 <!--
 **Icantu98/Icantu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
